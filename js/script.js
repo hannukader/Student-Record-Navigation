@@ -132,7 +132,6 @@ const visibleLinks = () => {
    }
 }
 
-
 window.onload = () => {
    appendPageLinks(list);
    showPage(list, 1);
